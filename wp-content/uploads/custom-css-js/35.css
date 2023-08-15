@@ -1,0 +1,33 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#menu-principal {
+	display: flex;
+	justify-content: flex-end;
+}
+
+#menu-principal li {
+	margin-left: 15px;
+}
+
+#menu-principal li a {
+	color: #fff;
+	font-family: 'Inter', sans-serif;
+	font-weight:700;
+}
+
+.elementor-icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+.elementor-2 .elementor-element.elementor-element-5a179c9 .elementor-button {
+	background: linear-gradient(270.27deg, #0074BC 0%, #00AEEF 100%);
+}
+
+.elementor-2 .elementor-element.elementor-element-b644ac6 .elementor-heading-title {
+	background: linear-gradient(270.27deg, #0074BC 0%, #00AEEF 100%);
+	-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
